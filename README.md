@@ -1,8 +1,1 @@
-# Welcome!
-
-## I'm nyaongkkong
-
-## with
-
-
-<img src="https://img.shields.io/badge/Java-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
